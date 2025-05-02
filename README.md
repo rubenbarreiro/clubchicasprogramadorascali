@@ -31,8 +31,11 @@ El frontend usa Bootstrap y VanillaJS por facilidad, nothing fancy, la idea es q
 - [ExpressJS](https://expressjs.com/)
 - [BootStrap](https://getbootstrap.com/)
 - [TypeScript](https://www.typescriptlang.org/)  
+- [VanillaJS](http://vanilla-js.com/) 😆
   
 
 Todo se hizo lo mas basico posible, de nuevo por el foco y el publico de las sesiones, react u otro framework/libreria para el front es algo que no necesitamos porque las clases estuvieron pensadas para ser una intro al mundo de la programacion(este mismo argumento aplica para el backend).
+
+***NO USO TILDES***
 
 ### TODO: diagrama de infra 
