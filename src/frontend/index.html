@@ -13,6 +13,8 @@
       crossorigin="anonymous"
     ></script>
 
+    <script src="./code.js"></script>
+
     <title>Landing</title>
   </head>
 
@@ -36,7 +38,7 @@
                     <input type="text" class="form-control" id="alias" />
                   </div>
                 </div>
-                <div class="mb-3 row">
+                <!-- <div class="mb-3 row">
                   <label for="inputPassword" class="col-sm-3 col-form-label"
                     >Contrase&ntilde;a</label
                   >
@@ -47,7 +49,7 @@
                       id="inputPassword"
                     />
                   </div>
-                </div>
+                </div> -->
 
                 <input
                   class="form-control"
@@ -55,6 +57,15 @@
                   id="formFileMultiple"
                   multiple
                 />
+
+                <button
+                  id="enviar"
+                  onclick="enviarArchivos()"
+                  type="button"
+                  class="btn btn-primary"
+                >
+                  Enviar
+                </button>
               </div>
             </div>
           </div>
